@@ -18,7 +18,7 @@ Faydalı bulursanız yıldız vermeyi ve eksik yerleri ekleyerek katkıda bulunm
 
 ## Kurulum
 
-Dosyaları indirdikten sonra Laravel 8 ve öncesi için `resources/lang/tr`, Laravel 9 için `lang/tr` klasörüne atmanız
+Dosyaları indirdikten sonra Laravel 8 ve öncesi için `resources/lang/tr`, Laravel 9 ve sonrası için `lang/tr` klasörüne atmanız
 yeterli.
 
 ## Kullanım
@@ -27,7 +27,7 @@ Kurulumdan sonra `config/app.php` dosyasındaki `locale` değerini `tr` olarak d
 
 ## Katkıda Bulunmak
 
-Eğer eksik yerler gördüyseniz veya daha iyi çeviriler yapabilirseniz lütfen PR gönderin.
+Eğer eksik gördüğünüz yerlar varsa veya daha iyi çeviriler yapabilirseniz lütfen PR gönderin.
 
 ## Lisans
 
